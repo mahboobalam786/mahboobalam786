@@ -10,6 +10,16 @@ Email Me 👉 ✉️ **mahboobalam54283@gmail.com** For Collaboration/Project or
 - 📫 **How to reach me:** mahboobalam54283@gmail.com
 - 😄 **Pronouns:** Mahboob 
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
+### ✍️ Random Dev Quote
+“I am a Computer Science Engineer, driven by curiosity and innovation.
+I turn problems into solutions and ideas into reality through technology.
+Every line of code is a step toward learning something new.
+I believe in continuous growth, smart work, and creating a better future.
+My journey is not just about coding, but about building possibilities.”
+
+<div align="center">
+<img align="right"alt="coding"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mahboob Alam) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahboob_021) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@shortsforkids09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahboobalam54283@gmail.com) 
@@ -25,15 +35,8 @@ Email Me 👉 ✉️ **mahboobalam54283@gmail.com** For Collaboration/Project or
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<img align="right"alt="coding"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
 
 
-### ✍️ Random Dev Quote
-“I am a Computer Science Engineer, driven by curiosity and innovation.
-I turn problems into solutions and ideas into reality through technology.
-Every line of code is a step toward learning something new.
-I believe in continuous growth, smart work, and creating a better future.
-My journey is not just about coding, but about building possibilities.”
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahboobalam786&limit=5&theme=dark&combine_all_yearly_contributions=true)
