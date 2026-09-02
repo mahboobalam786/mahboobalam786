@@ -147,41 +147,7 @@ A campus-focused project for reporting and solving student problems.
 
 </div>
 
----
 
-## 🚀 What I Do
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   💻 Build Web Applications                  ║
-║                                              ║
-║   🧠 Solve Programming Problems              ║
-║                                              ║
-║   ⚛️  Develop React Interfaces               ║
-║                                              ║
-║   🖥️  Build Node.js Backends                ║
-║                                              ║
-║   🗄️  Work With MongoDB                     ║
-║                                              ║
-║   🚀 Learn & Build New Things                ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-## 🤝 Let's Collaborate
-
-> 👯 **I'm looking to collaborate on interesting web development projects.**
-
-> 💬 **Have an idea? Let's build it together.**
-
-> 🤔 **Need technical help? Feel free to reach out.**
-
-> 📩 **Open for project collaboration and tech discussions.**
-
----
 
 
 ---
@@ -214,14 +180,7 @@ A campus-focused project for reporting and solving student problems.
 
 </div>
 
----
 
-
-   
----
-
-
----
 
 ## 📫 Connect With Me
 
