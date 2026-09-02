@@ -1,21 +1,253 @@
-# 💫 Hi 👋, I'm **Mahboob** Alam
+<!-- ========================= -->
+<!--       HERO SECTION        -->
+<!-- ========================= -->
 
-Email Me 👉 ✉️ **mahboobalam54283@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<div align="center">
 
-- 🔭 **I’m currently working on:** PDF Application , Online Course Hub, Safe_campus
-- 🌱 **I’m currently learning:** MERN STACK
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** mahboobalam54283@gmail.com
-- 😄 **Pronouns:** Mahboob 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-### ✍️ Random Dev Quote
-“I am a Computer Science Engineer, driven by curiosity and innovation.
-I turn problems into solutions and ideas into reality through technology.
-Every line of code is a step toward learning something new.
-I believe in continuous growth, smart work, and creating a better future.
-My journey is not just about coding, but about building possibilities.”
+# ⚡ Hi 👋, I'm **Mahboob Alam**
+
+### `MERN Stack Developer` • `Problem Solver` • `Tech Explorer`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Real+World+Projects+%F0%9F%9A%80;Learning+MERN+Stack+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8;Code+%7C+Create+%7C+Improve+%F0%9F%94%A5" />
+
+<br>
+
+<a href="mailto:mahboobalam54283@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email%20Me-00D9FF?style=for-the-badge">
+</a>
+
+<a href="https://github.com/mahboobalam786">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mahboobalam786&style=flat-square&color=00D9FF&label=PROFILE+VIEWS">
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```js
+const Mahboob = {
+    name: "Mahboob Alam",
+    role: "MERN Stack Developer",
+
+    learning: [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js"
+    ],
+
+    mindset: "Learn → Build → Debug → Improve",
+
+    passion: "Turning ideas into useful applications 🚀",
+
+    funFact: "I Love Tech & Tech Loves Me ⚡"
+};
+```
+
+---
+
+## 🔭 Currently Working On
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 📄 PDF Application
+
+A web application for working with PDF documents and making document interaction easier.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎓 Online Course Hub
+
+A learning platform designed to make online learning simple and accessible.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🛡️ Safe Campus
+
+A campus-focused project for reporting and solving student problems.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+
+### 🖥️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║   💻 Build Web Applications                  ║
+║                                              ║
+║   🧠 Solve Programming Problems              ║
+║                                              ║
+║   ⚛️  Develop React Interfaces               ║
+║                                              ║
+║   🖥️  Build Node.js Backends                ║
+║                                              ║
+║   🗄️  Work With MongoDB                     ║
+║                                              ║
+║   🚀 Learn & Build New Things                ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+---
+
+## 🤝 Let's Collaborate
+
+> 👯 **I'm looking to collaborate on interesting web development projects.**
+
+> 💬 **Have an idea? Let's build it together.**
+
+> 🤔 **Need technical help? Feel free to reach out.**
+
+> 📩 **Open for project collaboration and tech discussions.**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahboobalam786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahboobalam786&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahboobalam786&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mahboobalam786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## ✍️ Developer Mindset
+
+<div align="center">
+
+### `"Code is not just syntax. It's a way of turning ideas into possibilities."`
+
+<br>
+
+> 🧠 **Curiosity** drives me to learn.  
+> 💻 **Code** helps me create.  
+> 🐛 **Errors** teach me.  
+> 🚀 **Projects** help me grow.
+
+</div>
+
+---
+
+## 🧩 My Philosophy
+
+```text
+       THINK
+         ↓
+       LEARN
+         ↓
+       BUILD
+         ↓
+       BREAK
+         ↓
+       DEBUG
+         ↓
+      IMPROVE
+         ↓
+       REPEAT 🔥
+```
+
+---
+
+## 💡 A Little About My Journey
+
+> I am a Computer Science Engineer driven by curiosity and innovation.
+>
+> I turn problems into solutions and ideas into reality through technology.
+>
+> Every line of code is a step toward learning something new.
+>
+> I believe in continuous growth, smart work, and creating a better future.
+>
+> **My journey is not just about coding — it's about building possibilities. 🚀**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mahboobalam54283@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-mahboobalam54283%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://github.com/mahboobalam786">
+<img src="https://img.shields.io/badge/GitHub-Mahboob%20Alam-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `CODE • CREATE • LEARN • REPEAT`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+
+</div>
 
 <div align="center">
 <img align="right"alt="coding"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
