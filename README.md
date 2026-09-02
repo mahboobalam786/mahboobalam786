@@ -27,30 +27,73 @@
 </div>
 
 ---
-
 ## 🧑‍💻 About Me
 
-```js
-const Mahboob = {
-    name: "Mahboob Alam",
-    role: "MERN Stack Developer",
+<div align="center">
 
-    learning: [
-        "MongoDB",
-        "Express.js",
-        "React.js",
-        "Node.js"
-    ],
+### 👋 Hey! I'm Mahboob Alam
 
-    mindset: "Learn → Build → Debug → Improve",
+**MERN Stack Developer** who loves turning ideas into real-world web applications. 🚀
 
-    passion: "Turning ideas into useful applications 🚀",
+<br>
 
-    funFact: "I Love Tech & Tech Loves Me ⚡"
-};
-```
+<table>
+<tr>
+<td align="center" width="25%">
 
----
+💻  
+**Development**
+
+Building modern web applications
+
+</td>
+
+<td align="center" width="25%">
+
+⚛️  
+**Frontend**
+
+React.js & Vite
+
+</td>
+
+<td align="center" width="25%">
+
+🖥️  
+**Backend**
+
+Node.js & Express.js
+
+</td>
+
+<td align="center" width="25%">
+
+🗄️  
+**Database**
+
+MongoDB
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🌱 Currently Learning
+
+`MongoDB` • `Express.js` • `React.js` • `Node.js`
+
+### 🧠 My Mindset
+
+**Learn → Build → Debug → Improve → Repeat 🔥**
+
+### ⚡ Fun Fact
+
+> I Love Tech & Tech Loves Me ⚡
+
+</div>
+
+
 
 ## 🔭 Currently Working On
 
