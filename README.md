@@ -95,93 +95,12 @@ MongoDB
 
 
 
-## 🔭 Currently Working On
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 📄 PDF Application
-
-A web application for working with PDF documents and making document interaction easier.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎓 Online Course Hub
-
-A learning platform designed to make online learning simple and accessible.
-
-</td>
-
-<td width="33%" align="center">
-
-### 🛡️ Safe Campus
-
-A campus-focused project for reporting and solving student problems.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
-
-### 🖥️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-
-</div>
 
 
+```
 
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahboobalam786&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-
----
-
-## ✍️ Developer Mindset
-
-<div align="center">
-
-### `"Code is not just syntax. It's a way of turning ideas into possibilities."`
-
-<br>
-
-> 🧠 **Curiosity** drives me to learn.  
-> 💻 **Code** helps me create.  
-> 🐛 **Errors** teach me.  
-> 🚀 **Projects** help me grow.
-
-</div>
-
-
-
+```
 ## 📫 Connect With Me
 
 <div align="center">
