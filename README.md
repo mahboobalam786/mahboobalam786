@@ -183,15 +183,6 @@ A campus-focused project for reporting and solving student problems.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahboobalam786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahboobalam786&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -205,13 +196,6 @@ A campus-focused project for reporting and solving student problems.
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahboobalam786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
 
 ---
 
@@ -232,37 +216,10 @@ A campus-focused project for reporting and solving student problems.
 
 ---
 
-## 🧩 My Philosophy
 
-```text
-       THINK
-         ↓
-       LEARN
-         ↓
-       BUILD
-         ↓
-       BREAK
-         ↓
-       DEBUG
-         ↓
-      IMPROVE
-         ↓
-       REPEAT 🔥
-```
-
+   
 ---
 
-## 💡 A Little About My Journey
-
-> I am a Computer Science Engineer driven by curiosity and innovation.
->
-> I turn problems into solutions and ideas into reality through technology.
->
-> Every line of code is a step toward learning something new.
->
-> I believe in continuous growth, smart work, and creating a better future.
->
-> **My journey is not just about coding — it's about building possibilities. 🚀**
 
 ---
 
