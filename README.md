@@ -1,21 +1,40 @@
-# 💫 Hi 👋, I'm **Mahboob** Alam
+# 👋 Hey, I'm Mahboob Alam
 
-Email Me 👉 ✉️ **mahboobalam54283@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 
-- 🔭 **I’m currently working on:** PDF Application , Online Course Hub, Safe_campus
-- 🌱 **I’m currently learning:** MERN STACK
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** mahboobalam54283@gmail.com
-- 😄 **Pronouns:** Mahboob 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
-### ✍️ Random Dev Quote
-“I am a Computer Science Engineer, driven by curiosity and innovation.
-I turn problems into solutions and ideas into reality through technology.
-Every line of code is a step toward learning something new.
-I believe in continuous growth, smart work, and creating a better future.
-My journey is not just about coding, but about building possibilities.”
+<p align="center">
+  <a href="mailto:mahboobalam54283@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/mahboobalam786">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+```js
+const mahboob = {
+    name: "Mahboob Alam",
+    role: "MERN Stack Developer",
+    education: "B.Tech CSE",
+    currentlyLearning: [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB"
+    ],
+    interests: [
+        "Full Stack Development",
+        "Problem Solving",
+        "Building Web Applications"
+    ],
+    goal: "Build useful products that solve real problems 🚀"
+};
 
 <div align="center">
 <img align="right"alt="coding"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
